@@ -21,7 +21,12 @@ To clean the 2 Bar Grip for reuse between experiments, scrub all surfaces vigoro
 
 All parts sliced (aka rendered) using PrusaSlicer 2.9.2
 
-Full print settings found [here]().
+Orient object so that the 5mm hooks are faceing the print bed, like so:
+<p>
+    <img src=Images/SlicerOrientation.jpg height="290">
+   </p>
+
+Full print settings found [here](PrinterSettings/0.6_nozzle_settings_raft_x3_7mm_spacing.ini).
 
 ### Key Settings
 * No skirt, no brim
