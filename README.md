@@ -21,13 +21,13 @@ To clean the 2 Bar Grip for reuse between experiments, scrub all surfaces vigoro
 
 All parts sliced (aka rendered) using PrusaSlicer 2.9.2
 
-Full print settings found here:\
-[0.6mm nozzle settings](PrinterSettings/0.6nozzle_settings_no_support.ini)
+Full print settings found [here]().
 
 ### Key Settings
 * No skirt, no brim
-* support material
-* Raft -> 3 layers
+* Raft layers -> 3
+* Support pattern: Rectilinear
+* Support pattern spacing: 7mm
 * First layer speed: 10mm/s 
 * First layer height: 0.2mm 
 * Infill density: 5%
