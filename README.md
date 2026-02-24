@@ -7,7 +7,7 @@ The link to the paper that commissioned this tool can be found here -> DOI: [10.
 
 ## Hardware
 
-All files were printed using a Prusa i3 MKS3, using OVERTURE PLA Plus (PLA+) 1.75mm Professional Toughness filament, with a 0.6mm nozzle.\
+All files were printed using a Prusa i3 MKS3 with a 0.6mm nozzle, using OVERTURE PLA Plus (PLA+) 1.75mm Professional Toughness filament.\
 Painter's tape was put on print bed to increase print adhesion with bed.
 * Make sure tape is completely flat
 * No gaps between tape pieces
