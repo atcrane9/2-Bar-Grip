@@ -1,7 +1,10 @@
 # 2-Bar-Grip
 
 Intro:
-The 2 Bar Grip is a tool that can be used to stabilize [metal rods](https://www.homedepot.com/pep/Everbilt-3-16-in-x-3-ft-Plain-Steel-Solid-Round-Rod-0403/332733428) (diameter: 4.76 mm (3/16 in), length: 91.44 cm (3 ft)) at 3.5 cm apart for use with the balance beam motor task. The tool has both a 5mm and a 7mm hook in order to hang from the inside of either a 75Jag Cage (Allentown) or a N10 Mouse cage (Ancare).
+The 2 Bar Grip is a tool used to stabilize [metal rods](https://www.homedepot.com/pep/Everbilt-3-16-in-x-3-ft-Plain-Steel-Solid-Round-Rod-0403/332733428) (diameter: 4.76 mm (3/16 in), length: 91.44 cm (3 ft)) at 3.5 cm apart for use with the balance beam motor task. The tool has both a 5mm and a 7mm hook in order to hang from the inside of either a 75Jag Cage (Allentown) or a N10 Mouse cage (Ancare).
+<p>
+    <img src=Images/Example2.jpg height="290">
+   </p>
 
 The link to the paper that commissioned this tool can be found here -> DOI: [10.1126/sciadv.adw7427](h ttps://doi.org/10.1126/sciadv.adw7427)
 
@@ -37,9 +40,7 @@ Full print settings found [here](PrinterSettings/0.6_nozzle_settings_raft_x3_7mm
 * Infill density: 5%
 * Layer Height: 0.4mm
 
-
 <!--Print Settings:
-
 Prusa i3 MK3S Printer
 Prusa SLicer 2.9.2
 Overture PLA Professional Filament
@@ -77,4 +78,9 @@ Print Settings: (Only listed if different from default)
 		First Layer Speed - 10mm/s
 	Advanced:
 		Top Solid Infill - 0.65mm
-		Support Material - 0.61mm -->­­
+		Support Material - 0.61mm -->
+
+# Acknowledgments
+
+* Original design by [Aaron Crane](https://github.com/atcrane9)
+* Commissioned by Alika Sulaman and [The AER Lab](https://github.com/AER-Lab)­­
