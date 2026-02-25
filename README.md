@@ -5,7 +5,7 @@ The 2 Bar Grip is a tool used to stabilize [metal rods](https://www.homedepot.co
     <img src=Images/2BarGrip1.jpg height="290"> <img src=Images/2BarGripSetup2.jpg height="290"> <img src=Images/HookDimensions.jpg height="290">
    </p>
 <p>
-    <img src=Images/Example2.jpg height="290">
+    <img src=Images/Example6.jpg height="290">
    </p>
 
 The link to the paper that commissioned this tool can be found here -> DOI: [10.1126/sciadv.adw7427](h ttps://doi.org/10.1126/sciadv.adw7427)
