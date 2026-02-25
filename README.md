@@ -1,6 +1,5 @@
 # 2-Bar-Grip
 
-Intro:
 The 2 Bar Grip is a tool used to stabilize [metal rods](https://www.homedepot.com/pep/Everbilt-3-16-in-x-3-ft-Plain-Steel-Solid-Round-Rod-0403/332733428) (diameter: 4.76 mm (3/16 in), length: 91.44 cm (3 ft)) at 3.5 cm apart for use with the balance beam motor task. The tool has both a 5.5mm and an 8mm hook in order to hang from the inside of either a 75Jag Cage (Allentown) or a N10 Mouse cage (Ancare).
 <p>
     <img src=Images/2BarGrip1.jpg height="290"> <img src=Images/2BarGripSetup2.jpg height="290"> <img src=Images/HookDimensions.jpg height="290">
